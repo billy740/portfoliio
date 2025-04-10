@@ -5,7 +5,7 @@ export const contactsData = {
     github: 'https://github.com/billy740',
     facebook: '',
     linkedIn: '',
-    twitter: '',
+   
     stackOverflow: '',
     devUsername: ""
 }

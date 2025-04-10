@@ -2,7 +2,7 @@ export const experiences = [
   
   {
     id: 1,
-    title: "Attache",
+    title: "Attachee",
     company: "SwahiliPot Hub Foundation",
     duration: "(Jan 2025 - April 2025)"
   },
